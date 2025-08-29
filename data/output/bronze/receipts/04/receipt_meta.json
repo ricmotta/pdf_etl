@@ -1,7 +1,7 @@
 {
   "source_path": "data/input/receipts/04.jpg",
   "file_hash": "3e2e924fe0f8e5d57dbedd2beb73bea342e4cc951c7a62fe54c87e4b6e1bb6a2",
-  "ingest_ts": "2025-08-28T22:15:39.605759",
+  "ingest_ts": "2025-08-29T11:58:19.260176",
   "extraction_flavor": "ocr_mp:gray:--oem 3 --psm 6 -l eng",
   "ocr_input_variant": "gray",
   "merchant_name": "WALMART",

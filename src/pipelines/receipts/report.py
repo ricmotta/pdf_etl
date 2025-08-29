@@ -46,23 +46,23 @@ def make_receipt_report(dsn: str, out_path: Path, top_n: int = 5, threshold: flo
 
         # Top items by value
         _, top_items_value = _q(conn, f"""
-            SELECT li.description, SUM(li.line_total)::numeric(18,2) AS total
+            SELECT li.item, SUM(li.line_total)::numeric(18,2) AS total
             FROM etl.line_items li
             JOIN etl.documents d USING (document_id)
             WHERE d.doc_type = 'receipt'
-            GROUP BY li.description
+            GROUP BY li.item
             ORDER BY total DESC NULLS LAST
             LIMIT {top_n}
         """)
 
         # Top items by frequency (sum of quantities)
         _, top_items_freq = _q(conn, f"""
-            SELECT li.description,
+            SELECT li.item,
                 SUM(COALESCE(li.quantity, 1)) AS qty
             FROM etl.line_items li
             JOIN etl.documents d USING (document_id)
             WHERE d.doc_type = 'receipt'
-            GROUP BY li.description
+            GROUP BY li.item
             ORDER BY qty DESC NULLS LAST
             LIMIT {top_n}
         """)
@@ -74,7 +74,7 @@ def make_receipt_report(dsn: str, out_path: Path, top_n: int = 5, threshold: flo
                    sum_line_total,
                    subtotal_meta,
                    total_meta,
-                   diff_sum_vs_subtotal
+                   ROUND(diff_sum_vs_subtotal, 2) AS diff_sum_vs_subtotal
             FROM etl.documents
             WHERE doc_type = 'receipt'
               AND ABS(COALESCE(diff_sum_vs_subtotal,0)) >= %s

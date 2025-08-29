@@ -1,7 +1,7 @@
 {
   "source_path": "data/input/receipts/06.jpg",
   "file_hash": "fc84a262ad6df562e66a4089122dbab94b296faa523eca3a43b45806ec63ac15",
-  "ingest_ts": "2025-08-28T22:15:53.257624",
+  "ingest_ts": "2025-08-29T11:58:32.903183",
   "extraction_flavor": "ocr_mp:gray:--oem 3 --psm 4 -l eng",
   "ocr_input_variant": "gray",
   "merchant_name": "MOMI & TOYS",

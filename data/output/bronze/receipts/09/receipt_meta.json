@@ -1,7 +1,7 @@
 {
   "source_path": "data/input/receipts/09.jpg",
   "file_hash": "456aa173f50d8e75cb29750f4976e349827c5349ed7ccd657e83e81ab6be5322",
-  "ingest_ts": "2025-08-28T22:16:07.549559",
+  "ingest_ts": "2025-08-29T11:58:47.271811",
   "extraction_flavor": "ocr_mp:gray:--oem 3 --psm 4 -l eng",
   "ocr_input_variant": "gray",
   "merchant_name": "Yolancta",

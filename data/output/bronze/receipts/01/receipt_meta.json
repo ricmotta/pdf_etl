@@ -1,7 +1,7 @@
 {
   "source_path": "data/input/receipts/01.jpg",
   "file_hash": "ccfa2d70de2e66514fe63e20f939ed7379557d42bfbdb31e3b58336743cb3839",
-  "ingest_ts": "2025-08-28T22:15:28.775963",
+  "ingest_ts": "2025-08-29T11:58:08.384487",
   "extraction_flavor": "ocr_mp:gray:--oem 3 --psm 4 -l eng",
   "ocr_input_variant": "gray",
   "merchant_name": "TRADER JOE'S",

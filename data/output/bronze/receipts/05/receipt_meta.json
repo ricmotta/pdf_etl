@@ -1,7 +1,7 @@
 {
   "source_path": "data/input/receipts/05.jpg",
   "file_hash": "4c3ded66972e998f03e48e84ca9e7ffea444805420cc8f1ef6a2e2b030c71446",
-  "ingest_ts": "2025-08-28T22:15:49.156713",
+  "ingest_ts": "2025-08-29T11:58:28.838572",
   "extraction_flavor": "ocr_mp:gray:--oem 3 --psm 4 -l eng",
   "ocr_input_variant": "gray",
   "merchant_name": "WHOLE FOOps",

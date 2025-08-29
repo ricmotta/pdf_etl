@@ -1,2 +1,2 @@
 document_id,doc_type,document_number_raw,document_number,party_name,supplier_name,currency,extraction_flavor,items_count,sum_line_total,subtotal_meta,tax_meta_pct,total_meta,diff_sum_vs_subtotal,diff_sum_vs_total,source_path,ingest_ts,silver_ts
-TRADERJO-01-NA,receipt,,,,TRADER JOE'S,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,15,32.53,38.68,,38.68,-6.149999999999999,-6.149999999999999,data/input/receipts/01.jpg,2025-08-28T22:15:28.775963,2025-08-28T22:16:14
+TRADERJO-01-NA,receipt,,,,TRADER JOE'S,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,15,32.53,38.68,,38.68,-6.149999999999999,-6.149999999999999,data/input/receipts/01.jpg,2025-08-29T11:58:08.384487,2025-08-29T11:58:54

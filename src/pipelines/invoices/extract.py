@@ -501,7 +501,7 @@ def extract_invoice(pdf_path: Path, out_dir: Path) -> dict:
     header_text = _extract_header_text(pdf_path)
     meta = _parse_invoice_meta(header_text)
     meta.update({
-        "source_path": str(pdf_path),
+        "source_path": str(pdf_path).replace("\\", "/"),
         "extraction_flavor": flavor,
         "ingest_ts": datetime.utcnow().isoformat(timespec="seconds") + "Z",
         "line_items_rows": int(len(items)),

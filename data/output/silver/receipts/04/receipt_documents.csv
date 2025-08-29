@@ -1,2 +1,2 @@
 document_id,doc_type,document_number_raw,document_number,party_name,supplier_name,currency,extraction_flavor,items_count,sum_line_total,subtotal_meta,tax_meta_pct,total_meta,diff_sum_vs_subtotal,diff_sum_vs_total,source_path,ingest_ts,silver_ts
-WALMART-04-NA,receipt,,,,WALMART,USD,ocr_mp:gray:--oem 3 --psm 6 -l eng,3,20.82,6.94,0.0,7.43,13.879999999999999,13.39,data/input/receipts/04.jpg,2025-08-28T22:15:39.605759,2025-08-28T22:16:14
+WALMART-04-NA,receipt,,,,WALMART,USD,ocr_mp:gray:--oem 3 --psm 6 -l eng,3,20.82,6.94,0.0,7.43,13.879999999999999,13.39,data/input/receipts/04.jpg,2025-08-29T11:58:19.260176,2025-08-29T11:58:54

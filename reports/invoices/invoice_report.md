@@ -1,12 +1,12 @@
 # Invoice Report
 
-_Generated at: 2025-08-28T22:14:05Z_
+_Generated at: 2025-08-29T12:06:30Z_
 
 ## Overview
 
 | total_documents | total_invoices | invoices_total_value |
 | ---: | ---: | ---: |
-| 5 | 5 | 53,600.00 |
+| 17 | 5 | 53,600.00 |
 
 
 ## Top 5 Parties by Value

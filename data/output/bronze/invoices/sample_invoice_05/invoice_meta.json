@@ -14,8 +14,8 @@
   "subtotal": "6,480.00",
   "tax": "5,50%",
   "currency": "USD",
-  "source_path": "data\\input\\invoices\\sample_invoice_05.pdf",
+  "source_path": "data/input/invoices/sample_invoice_05.pdf",
   "extraction_flavor": "lattice",
-  "ingest_ts": "2025-08-28T22:14:04Z",
+  "ingest_ts": "2025-08-29T12:06:30Z",
   "line_items_rows": 5
 }

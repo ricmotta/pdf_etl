@@ -1,13 +1,13 @@
 document_id,doc_type,document_number_raw,document_number,party_name,supplier_name,currency,extraction_flavor,items_count,sum_line_total,subtotal_meta,tax_meta_pct,total_meta,diff_sum_vs_subtotal,diff_sum_vs_total,source_path,ingest_ts,silver_ts
-WALMART-00-NA,receipt,,,,WALMART,USD,ocr_mp:bin:--oem 3 --psm 6 -l eng,2,5.68,5.11,,5.11,0.5700000000000003,0.5700000000000003,data/input/receipts/00.jpg,2025-08-28T22:15:23.950307,2025-08-28T22:16:14
-TRADERJO-01-NA,receipt,,,,TRADER JOE'S,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,15,32.53,38.68,,38.68,-6.149999999999999,-6.149999999999999,data/input/receipts/01.jpg,2025-08-28T22:15:28.775963,2025-08-28T22:16:14
-WALMART-02-NA,receipt,,,,WALMART,USD,ocr_mp:gray:--oem 3 --psm 6 -l eng,3,44.68,46.44,7.5,49.9,-1.759999999999998,-5.219999999999999,data/input/receipts/02.jpg,2025-08-28T22:15:32.530502,2025-08-28T22:16:14
-WALMART-03-NA,receipt,,,,WALMART,USD,ocr_mp:gray:--oem 3 --psm 6 -l eng,12,79.05,139.44,,144.02,-60.38999999999999,-64.97,data/input/receipts/03.jpg,2025-08-28T22:15:36.970478,2025-08-28T22:16:14
-WALMART-04-NA,receipt,,,,WALMART,USD,ocr_mp:gray:--oem 3 --psm 6 -l eng,3,20.82,6.94,0.0,7.43,13.88,13.39,data/input/receipts/04.jpg,2025-08-28T22:15:39.605759,2025-08-28T22:16:14
-WHOLEFOO-05-NA,receipt,,,,WHOLE FOOPS,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,1,200.0,28.0,,28.0,172.0,172.0,data/input/receipts/05.jpg,2025-08-28T22:15:49.156713,2025-08-28T22:16:14
-MOMITOYS-06-20150126,receipt,,,,MOMI & TOYS,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,0,0.0,175.0,,175.0,-175.0,-175.0,data/input/receipts/06.jpg,2025-08-28T22:15:53.257624,2025-08-28T22:16:14
-WALMART-07-NA,receipt,,,,WALMART,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,4,25.72,21.74,5.0,23.19,3.980000000000004,2.530000000000001,data/input/receipts/07.jpg,2025-08-28T22:15:56.793847,2025-08-28T22:16:14
-THORNTON-08-NA,receipt,,,,THORNTON 629,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,4,94.12,65.61,,3.52,28.50999999999999,90.6,data/input/receipts/08.jpg,2025-08-28T22:16:00.179321,2025-08-28T22:16:14
-YOLANCTA-09-NA,receipt,,,,YOLANCTA,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,4,142.5,121.92,,0.0,20.58,142.5,data/input/receipts/09.jpg,2025-08-28T22:16:07.549559,2025-08-28T22:16:14
-WALMART-10-NA,receipt,,,,WALMART,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,4,25.72,21.74,5.0,23.19,3.980000000000004,2.530000000000001,data/input/receipts/10.jpg,2025-08-28T22:16:11.093232,2025-08-28T22:16:14
-WALMART-11-NA,receipt,,,,WALMART,USD,ocr_mp:gray:--oem 3 --psm 6 -l eng,17,39.99,36.35,,38.68,3.6399999999999935,1.3099999999999952,data/input/receipts/11.jpg,2025-08-28T22:16:14.469654,2025-08-28T22:16:14
+WALMART-00-NA,receipt,,,,WALMART,USD,ocr_mp:bin:--oem 3 --psm 6 -l eng,2,5.68,5.11,,5.11,0.5700000000000003,0.5700000000000003,data/input/receipts/00.jpg,2025-08-29T11:58:03.557229,2025-08-29T11:58:54
+TRADERJO-01-NA,receipt,,,,TRADER JOE'S,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,15,32.53,38.68,,38.68,-6.149999999999999,-6.149999999999999,data/input/receipts/01.jpg,2025-08-29T11:58:08.384487,2025-08-29T11:58:54
+WALMART-02-NA,receipt,,,,WALMART,USD,ocr_mp:gray:--oem 3 --psm 6 -l eng,3,44.68,46.44,7.5,49.9,-1.759999999999998,-5.219999999999999,data/input/receipts/02.jpg,2025-08-29T11:58:12.133364,2025-08-29T11:58:54
+WALMART-03-NA,receipt,,,,WALMART,USD,ocr_mp:gray:--oem 3 --psm 6 -l eng,12,79.05,139.44,,144.02,-60.38999999999999,-64.97,data/input/receipts/03.jpg,2025-08-29T11:58:16.577107,2025-08-29T11:58:54
+WALMART-04-NA,receipt,,,,WALMART,USD,ocr_mp:gray:--oem 3 --psm 6 -l eng,3,20.82,6.94,0.0,7.43,13.88,13.39,data/input/receipts/04.jpg,2025-08-29T11:58:19.260176,2025-08-29T11:58:54
+WHOLEFOO-05-NA,receipt,,,,WHOLE FOOPS,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,1,200.0,28.0,,28.0,172.0,172.0,data/input/receipts/05.jpg,2025-08-29T11:58:28.838572,2025-08-29T11:58:54
+MOMITOYS-06-20150126,receipt,,,,MOMI & TOYS,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,0,0.0,175.0,,175.0,-175.0,-175.0,data/input/receipts/06.jpg,2025-08-29T11:58:32.903183,2025-08-29T11:58:54
+WALMART-07-NA,receipt,,,,WALMART,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,4,25.72,21.74,5.0,23.19,3.980000000000004,2.530000000000001,data/input/receipts/07.jpg,2025-08-29T11:58:36.448212,2025-08-29T11:58:54
+THORNTON-08-NA,receipt,,,,THORNTON 629,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,4,94.12,65.61,,3.52,28.50999999999999,90.6,data/input/receipts/08.jpg,2025-08-29T11:58:39.892227,2025-08-29T11:58:54
+YOLANCTA-09-NA,receipt,,,,YOLANCTA,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,4,142.5,121.92,,0.0,20.58,142.5,data/input/receipts/09.jpg,2025-08-29T11:58:47.271811,2025-08-29T11:58:54
+WALMART-10-NA,receipt,,,,WALMART,USD,ocr_mp:gray:--oem 3 --psm 4 -l eng,4,25.72,21.74,5.0,23.19,3.980000000000004,2.530000000000001,data/input/receipts/10.jpg,2025-08-29T11:58:50.817340,2025-08-29T11:58:54
+WALMART-11-NA,receipt,,,,WALMART,USD,ocr_mp:gray:--oem 3 --psm 6 -l eng,17,39.99,36.35,,38.68,3.6399999999999935,1.3099999999999952,data/input/receipts/11.jpg,2025-08-29T11:58:54.239907,2025-08-29T11:58:54

@@ -1,2 +1,2 @@
 document_id,doc_type,document_number_raw,document_number,party_name,supplier_name,currency,extraction_flavor,items_count,sum_line_total,subtotal_meta,tax_meta_pct,total_meta,diff_sum_vs_subtotal,diff_sum_vs_total,source_path,ingest_ts,silver_ts
-ACMECONS-3-20250827,invoice,3 ACME Construction Supplies Ltd.,3,Edgevanta Inc.,ACME Construction Supplies Ltd.,USD,lattice,4,4160.0,4160.0,7.5,4472.0,0.0,-312.0,data\input\invoices\sample_invoice_03.pdf,2025-08-28T22:14:04Z,2025-08-28T22:14:04Z
+ACMECONS-3-20250827,invoice,3 ACME Construction Supplies Ltd.,3,Edgevanta Inc.,ACME Construction Supplies Ltd.,USD,lattice,4,4160.0,4160.0,7.5,4472.0,0.0,-312.0,data/input/invoices/sample_invoice_03.pdf,2025-08-29T12:06:29Z,2025-08-29T12:06:29Z
