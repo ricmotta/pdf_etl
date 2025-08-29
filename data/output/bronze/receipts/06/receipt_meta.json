@@ -1,0 +1,21 @@
+{
+  "source_path": "data/input/receipts/06.jpg",
+  "file_hash": "fc84a262ad6df562e66a4089122dbab94b296faa523eca3a43b45806ec63ac15",
+  "ingest_ts": "2025-08-28T22:15:53.257624",
+  "extraction_flavor": "ocr_mp:gray:--oem 3 --psm 4 -l eng",
+  "ocr_input_variant": "gray",
+  "merchant_name": "MOMI & TOYS",
+  "tc_code": null,
+  "txn_datetime_raw": "26/01/2015 16:13",
+  "phone": "(600) 000-1363",
+  "items_sold_meta": null,
+  "items_detected": 0,
+  "discount_meta_val": null,
+  "subtotal_meta": 175.0,
+  "tax_meta_val": 0.0,
+  "tax_meta_pct": null,
+  "total_meta": 175.0,
+  "tendered_meta": 200.0,
+  "change_due_meta": 25.0,
+  "ocr_text_sample": "MOMI & TOY’S\nCREPERIE\nCTPBS Mall Kemang, L\nemang VI No. 6\nmomiantoys_ind Cinst\nindmomi Chwitter)\nCheck\nPax: ] OP: Gunawan Gunawan\nPOS Title:Cashier\nnay 26/01/2016 16:13\n1 Woman 0\n2 Ham Cheese 74, 000\nIce Java Tea 16, 000\n1 Mineral Water 13, 000\n1 Black & White 72, 000\nSUBTOTAL 175, 000\nTOTAL 175, 000\nCASH 200, 000\nChange 25,\nSo se ot\nAe ee A etn en SE mt He\nClosed Bil]\n26/01/2015 16:14\nThank you for tasting\nour “Meltingly Crepe\"\nMOMI & TOY’sS —\nCREPERIE ee\nCTPBS Mall. Kemang, | ~oo\n@indmomi Ctwitter) —\nCheck: 3850 Se\nPax: 1 OP: Gunawan Gunawan =\nPOS Title:Cashier =\nRept#:A6000001363 26/01/2015 16:13\n1 Woman 0 =\n2 Ham Cheese 74, 000 —-\n1 Ice Java Tea 16, 000 =\n1 Mineral Water 13, 000 =\n1 Black & White 72, 000 a\nSUBTOTAL 175,000\nClosed Bill\n(----=---==-96/01/2015 16: 14----------->\npigs a: for tasting,\nour “Meltingly Crepe\n—\noO Mall\nKemang,\ni\n+ ere\nemang\nindmomi\nhec\nCtwi tter)\na\n1\n:Gunawan\nGunawan\nitle:Cashier\na em ce a a eS I A ye ee\nRepti: 1000001363\n26/01/2015 16:13\n7 Woman\n2 Ham Cheese\n74, 000\nce Java Tea\n16, 000\n1 Mineral Water\n13, 000\n1 Black & White\n72, 000\nSUBTOTAL\n175, 000\nTOTAL\nCASH\n200, 000\nChange\n2a ae Se OE ST HS La SR NR RN SN SL SS\noni ncdeerke deckaradeebcedmdadetederdatantetberantanbstestamnbankardaberdnniendantearteadeenheeriededieeton’\nann\nou for tasting\nour\n“Meltingly Crepe\"\nSe"
+}

@@ -1,0 +1,2 @@
+document_id,doc_type,document_number_raw,document_number,party_name,supplier_name,currency,extraction_flavor,items_count,sum_line_total,subtotal_meta,tax_meta_pct,total_meta,diff_sum_vs_subtotal,diff_sum_vs_total,source_path,ingest_ts,silver_ts
+WALMART-11-NA,receipt,,,,WALMART,USD,ocr_mp:gray:--oem 3 --psm 6 -l eng,17,39.99,36.35,,38.68,3.6399999999999935,1.3099999999999952,data/input/receipts/11.jpg,2025-08-28T22:16:14.469654,2025-08-28T22:16:14

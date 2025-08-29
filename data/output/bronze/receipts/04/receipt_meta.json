@@ -1,0 +1,21 @@
+{
+  "source_path": "data/input/receipts/04.jpg",
+  "file_hash": "3e2e924fe0f8e5d57dbedd2beb73bea342e4cc951c7a62fe54c87e4b6e1bb6a2",
+  "ingest_ts": "2025-08-28T22:15:39.605759",
+  "extraction_flavor": "ocr_mp:gray:--oem 3 --psm 6 -l eng",
+  "ocr_input_variant": "gray",
+  "merchant_name": "WALMART",
+  "tc_code": null,
+  "txn_datetime_raw": "12/08/16",
+  "phone": "(712) 366-3326",
+  "items_sold_meta": 1,
+  "items_detected": 3,
+  "discount_meta_val": null,
+  "subtotal_meta": 6.94,
+  "tax_meta_val": 1.0,
+  "tax_meta_pct": 0.0,
+  "total_meta": 7.43,
+  "tendered_meta": 18.0,
+  "change_due_meta": 0.0,
+  "ocr_text_sample": "Walmart >'<\nSave money. Live better.\n2) 366 ~ 3326\nenaten DONALD MONEVHAKER\ncoca MWA CENTRE aR\nBLUFFS TA 61601\nste o15ee tee 002031 fet, 20 The 8146\nSW HRO FGHTR’ 0630609407; 6.94 T\nSama 6.94\nTAK 1 7.00 0:49\neazy TEND 143\nCHANGE DUE 000\nEFT DEBIT PAY FROM PRIMARY\n7 AL PURCHASE\nACCOUNT et ne oe es\nAer f 08420038785\nNETWORK TD. (0066 APPR CODE 087193\nTERMINAL # WRB3E0B6\n12/08/15 12:39:24\n# ITEMS SOLD 1\nTCR 3261 4114 0323 3051 6498\nIMU A\nidnight 7 eve 8 week.\nGren Gn Hbarie  asa8i28\nSavings Catcher! Seay with Walmart app\nWalmart s'<\n-\\s-\n(712 ) 366 - 3326\nMANAGER DONALD MONEYHAKER\n3201 MANAWA CENTRE DR\nCOUNCIL BLUFFS TA 61601\nST# 01965 OPS 002031 TES 20 ‘TRE 05146,\n‘SW HRO FGHTR 063060940732 6.94T\nSUBTOTAL 6.94\nTAX 1 = 7.000 % 0.49\nDEBIT TENG 18\nCHANGE DUE 0:00\n7.43 TOTAL PURCHASE\nACCOUNT & i\nREF $ 534200381765\nNETWORK ID. 0056 APPR CODE 087193\nTERMINAL # MX995026\niii i AVN NN\nto midnisht 7 dave 0 week.\nOren 6a oA 12.9926\nSavings Catcher! Scan with alnart ape\nORR Ol\ni m\nslp\nWalmart\n7s\nenaten DONALD MONEVHAKE?\ntt. o19e6 08\nSWHRO FGH\n(TR 0630509407:\nFt 002081 fet, 20 The 8146\n6.94 T\nSama\nTAX 1\n7.0\n0.49\n143\neazy TEND\nCHANGE DUE\n0:00\nEFT DEBIT\nBay FROM PRIKARY\n43, TOT\nACCOUNT.\nCen neds ene aie\nREF & 542008817\nNETWORK ID,\n6 APPR CODE 087193\nTERMINAL #'WkoSeoz6\n12/08/15\n12:39:24\nOpen Gan, . emianisht m4 ie 8 week.\n12/08/16\nSavings Catcher! Scan with Walmart app"
+}

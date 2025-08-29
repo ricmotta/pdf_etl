@@ -1,0 +1,17 @@
+camelot-py==1.0.9
+pdfplumber==0.11.6
+pandas==2.2.3
+typer==0.12.3
+python-dotenv==1.0.1
+Jinja2==3.1.4
+
+# OCR and images
+pytesseract==0.3.13
+pdf2image==1.17.0
+Pillow==10.4.0
+opencv-python==4.10.0.84
+numpy==1.26.4
+
+# Load in Postgres
+SQLAlchemy==2.0.32
+psycopg2-binary==2.9.10

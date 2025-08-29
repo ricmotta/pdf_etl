@@ -1,0 +1,21 @@
+{
+  "source_path": "data/input/receipts/08.jpg",
+  "file_hash": "c9e27f5a9ad88e1c39f9a835ee8b1174edaea292413744b6d0211a3c6c39f2a1",
+  "ingest_ts": "2025-08-28T22:16:00.179321",
+  "extraction_flavor": "ocr_mp:gray:--oem 3 --psm 4 -l eng",
+  "ocr_input_variant": "gray",
+  "merchant_name": "Thornton 629",
+  "tc_code": null,
+  "txn_datetime_raw": null,
+  "phone": null,
+  "items_sold_meta": 15,
+  "items_detected": 4,
+  "discount_meta_val": null,
+  "subtotal_meta": 65.61,
+  "tax_meta_val": 3.52,
+  "tax_meta_pct": null,
+  "total_meta": 3.52,
+  "tendered_meta": null,
+  "change_due_meta": 0.0,
+  "ocr_text_sample": "Thornton #629\n16375 N. Washington St.\nThornton, CO 80023\n2X Member 111826278335\nE 673919 FF BS BREAST\nE 633561 KS DICED TOM\n(= 967596 JACKORGSALSA\n38 4.29\n(2 878137 18CT EGGS\nE 77053 GRAPE TOMATO\n404609 ECO HALF PAN\nE 55992 GRND TURKEY\n7 E 263423 CHPD ONION\n74 E 22101 MONT JACK 2#\nSUBTOTAL\nTAX\nseen TOTAL\nCheck/Member Prntd\nCHANGE\nty\n<A 8.50% TAK 0.55\n>,  € 3.75% TAK 2.97\n| TOTAL TAX 3.52\nTOTAL NUMBER OF ITEMS SOLD = 11\nwey 15:00 629 4 172 14\nOp#: 14 Name: PEPPER\nThank You!\nPlease Come Asain\nWhse:629 Trm:4 Trn:172 OP:14\ney fl 8\n\" ee\nl Thornton #629 Boe\n| 16375 N. Washington St. ir ge\n=| Thornton, CO 80023 aor.\ns qv\n,2 2X Menber 111826278335 Pee;\nMm & = 673919 FF BS BREAST -23-99E ee\nw| E 633561 KS DICED TOM 6.49E F 8 j\n967596 JACKORGSALSA 2.97E & b\nm 324.29 Pa\n| — — 878137 18CT EGBS 12.876 Gtk\na 771053 GRAPE TOMATO 6.296 Ma\n1 404609 ECO HALF PAN 6.49 A .\nwee 55992 GRND TURKEY 1.47E\n,) & «—«263428 CHED ONION 3.59E Soe\n<a 22101 MONT JACK 2# 65\n| SUBTOTAL 65.61 fae\nes TAX 3.52 ga\nween TOTAL mK\n@ Check/Menber Prntd 89.13 Y\n% CHANGE 0.00 «=f\n<A 8.50% TAK 0.55 | Ey\n>| £ 3.75% TAK 2.97 Me\na TOTAL TAX 3.52 oo\nTOTAL NUMBER ues SOLD= 11 fr\na4 20/2019 15:00 629 4 172 14 ¥\n| oPé: 14 Name: PEPPER \"}\n‘A Thank You! “\nss Please Come Asai\n“| Whse:629 Trm:4 Trn:172 OP:14 a ‘\na\n=\n—\nne ye\n6 ee\n_\nAe et\n&\ne\nRW\n\\\n“|\n16375 N. Washington st\n>\n=|\n(®t\n2X Member 111 826278335\n4\n673919 FF BS BREAST\n23.99 E\n633561 KS DICED TOM\n6.49 E\n2.97 E\nYi\n(=\n967596 JACKORGSALSA\n7\n3\n12.87 E\n(3\n“g7er37 18CT EG8S\n6.29 E\n77053 GRAPE TOMATO\n6.49 A\n18.47 E\n55992 GRND TURKEY\nHy,\n263423 CHPD ONION\n3.59 E\nBey\nm4\n22101 MONT JACK 2%\n4.45 E\n85.61\nea\nAka\n89.13\nA 8.50% TAX\n0.55\nsi\nE 3.75% TAX\n2.91,\nTOTAL TAX\n3.52\nITEMS SOLD =\nan)\noe\n¥\nTOTAL NUMBER\nop#: 14 Name: PEPI"
+}

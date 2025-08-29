@@ -1,0 +1,21 @@
+{
+  "source_path": "data/input/receipts/05.jpg",
+  "file_hash": "4c3ded66972e998f03e48e84ca9e7ffea444805420cc8f1ef6a2e2b030c71446",
+  "ingest_ts": "2025-08-28T22:15:49.156713",
+  "extraction_flavor": "ocr_mp:gray:--oem 3 --psm 4 -l eng",
+  "ocr_input_variant": "gray",
+  "merchant_name": "WHOLE FOOps",
+  "tc_code": null,
+  "txn_datetime_raw": "02/10/2021 07:10 PM",
+  "phone": "(406) 419-1299",
+  "items_sold_meta": null,
+  "items_detected": 1,
+  "discount_meta_val": null,
+  "subtotal_meta": 28.0,
+  "tax_meta_val": 0.0,
+  "tax_meta_pct": null,
+  "total_meta": 28.0,
+  "tendered_meta": 250.0,
+  "change_due_meta": null,
+  "ocr_text_sample": "WHOLE FOOps\nMARKET\nSunnyvale SVL 406 419-1299\n150 E Mc Kinley Ave\ni Sunnyvale, CA 94086\na SEA SALT POT CHP $1.29 F\nSean BRIOCHE $6.99 F\nCHEF PLATE MEAL $10\né @ $10.00 ea $20.00 F\nsubtotal : $28 . 20\nNet Sales: $28.26\nTotal : $28 . 28\nSold Items: 4\nPaid:\nRETURNS: We are now accepting returns on\npurchases with the following conditions:\nReturns will only be accepted on purchases\nmade on or after 9/15/2020. All returns\nrequire a receipt. No returns on items\npurchased after 90 days. For additional\ninformation please visit wfm.com/returns.\nKKK KIRK KKK KK KKK KK KEK KEKE KK KEK KKK KKK KKK KRER\nEarn 5% Back at Whole Foods Market\nwith the Amazon Prime Rewards Visa.\nLearn more at amazon.com/amazonvisa\nKEK KK KER KK RRR RICK KOK KK KIRK KKK\nHOW WAS YOUR SHOPPING EXPERIENCE?\nGo to: htto://www.wfm.com/feedback\nENTER FOR A CHANCE TO WIN A $250 GIFT CARD\n908 6387 02/10/2021 07:10 PM\n0 A\n63011070790806387021020210\n_ BKTHOQW622D\nEe ldnale Encode Meee\nThanke far eh\n‘Sw 7%\n\\ \" | Ol E E  - ”*\nf MARKET j\nMai ad.\nSunnyvale SVL 40% 419-1299 < .\n- Sunnyvale, CA 94086 ,\n: KTTL SEA SALT POT CHP $1.29 F ‘\nBae §=6©CHEF PLATE MEAL aw\n‘» 2 a $t0 00 ea $20.00 F sok\nsubtotal : $28.29\nNet Sales: $28.28 $47\n: Total : $28 . 28\n: RETURNS: We are now accepting returns on\ni require a receipt. No returns on items\n¥ purchased after 90 days. For additional\n7 information please visit wfm.com/returns.\na 4 TOK FORK IOR KKK KOK KKK KKK KK KK KEK KKK KKK KKK KEKE\nFORK ICR OCC OOK KO IOI OOIOK IOI\nGo to: http://www.wfm.com/feedback\n63011070790806387021020210 ,\n— 6KTHOW62ZD =\nThanke far ehesiee et Whaale Eonde Market\n\\\nWHOLE FOODs\nSunnyvale SVL 406 419-1290\n15\nOE MC\nkKinle NY AVa\nSunnyvale, CA 94086\n|\nSEA\nSALT POT (\nSHP\n$1\nsof\nBRAIDED BRIOCHE\n$6\n99 F\n$20\n00 F\n@ $10.00 ea\n28\n99\nSubtotal :\n20\nNet Sales\n$28\nTotal\n$28 . 23\nSold Items\n4\nPaid\npurchases with the following conditions\npurchased after 90 days\nFor\naddi tional\ninformation please visit wfm.com/returns\nKOK IOCKIOK OK KOK KOK KK KK KK KKK KEK KKK KKK KKK KEKE\nwith the Amazon Prime Rewards Visa\nFOCI CCCI OO OOOO OOO ROOK\nBKTHQW62ZD\nThanke far\nat Whale Ennde Marke"
+}

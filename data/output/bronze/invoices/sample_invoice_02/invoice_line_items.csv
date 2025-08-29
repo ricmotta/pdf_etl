@@ -1,0 +1,4 @@
+item,description,quantity,unit_price,line_total
+Asphalt Mix,Hot-mix asphalt for road paving,20.0,95.0,1900.0
+Crushed Stone (Base),Aggregate base for highway foundation,50.0,30.0,1500.0
+Rebar Steel (12mm),Reinforcing steel bars for concrete,80.0,15.0,1200.0

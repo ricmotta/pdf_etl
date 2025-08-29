@@ -1,0 +1,21 @@
+{
+  "source_path": "data/input/receipts/11.jpg",
+  "file_hash": "eb5b5771b1631bf00fde0b1f494c49b61c4bd0174a2abc2aa7fd640007330676",
+  "ingest_ts": "2025-08-28T22:16:14.469654",
+  "extraction_flavor": "ocr_mp:gray:--oem 3 --psm 6 -l eng",
+  "ocr_input_variant": "gray",
+  "merchant_name": "WALMART",
+  "tc_code": null,
+  "txn_datetime_raw": "01/18/17 14:26:03",
+  "phone": "(970) 259-8755",
+  "items_sold_meta": 16,
+  "items_detected": 17,
+  "discount_meta_val": null,
+  "subtotal_meta": 36.35,
+  "tax_meta_val": 1.0,
+  "tax_meta_pct": null,
+  "total_meta": 38.68,
+  "tendered_meta": 40.68,
+  "change_due_meta": 2.0,
+  "ocr_text_sample": "See back of receipt for your chance\nto win $1000\nID #:  7K2GF1SL2FF\nWalmart 2 Pe\nSave money. Live better,\n970 ) 259 ~ 8755\nnew | Pie eee\nat oO a 40 ag\nST# 02270 OP# 44 TE# 02 TR# 03080\n|ANANAS aii }O11KT\n4011\n“1.76 1b @ 70.54 0.95 R\nBEVERAGE abst ogat F 2,00 R\nOS CRAN POM 003120027015 F 2.00 R\n445009821 211 3.98 Y\nHARD SALAMI 3960343 F 3.43 Y\nget Bo0d000404eK1\nAT 1 FOR 44 1.76 R\naug WHITE Bear 311 3et9 F 1.00 Y\nH NYLON COL 00741702 2.97 X\njin CLEANER 004121 200008 1.67 X\nINJECTR CLNR 004980710003 8.87 X\nSUBTOTAL 36,35\nTAX 1 7.900 * 1,07\nTAX 2. 6.000 % And\nTAX 2. ae Fa 0.12\npitied\n1D #) 7K2GF1SL2FF\nWal biS\nalmart >,<.\n( 970 ) 259 ~ 8755\nMANAGER HIKE NEIDLINGER\n4 1165S CAMINO DEL RIO\nDURANGO CO 81303\nST# 02270 OP# 000144 TES 02 TRE 03080\nBANANAS 00000000401 1KI\n1.75 lb @ 1 1b /0.54 0.95 R\nBEVERAGE. 003120002133 F 2,00 R\n0S cy POM 003120027015 F 2,00 R\nSTRWBRY CC 076471782200 F 0.96 Y\nCAMPARI TOM 073447501213 1 2.98 R\nKFT SINGLES 002100061526 F 3.78 ¥\n44500982114 004460098211 F 3.98 Y\nHARD SALAMI 020533960343 F 3.43 Y.\nAVOCADO. Oo0000004046KT\n4 AT 1 FOR 0.44 1.76 R\nPILLS WHITE 068113113619 F 1,00 Y\nSH NYLON COL 007417024836 2.97 X\nHAND CLEANER 004125100005 1.67 X\nTAX 1 7,900 * 1,07\nTAX 2 6.000 % And\nTAX 5 2.900 % 0.12\nTOTAL 38.68\nCASH TEND 40.68 he\nCHANGE DUE 2.00\n# ITEMS SOLD 16\n01/18/17 14:26:03 £\nOb ita ‘\ni Pe a\nNees atest % is\nSee back of receipt for your ch\nince\nto win §\nID #:\n‘TKZGF1SL2FF\nLs\nespe ty\nait\nWalmart > Pe\n259 ~ 87!\nST# 02270 oPt 2001 44 a 02 TR# 03080\n0.95 R\nJEVERAGE\nabst ogat E\n2.00 R\nOs\n20027015 F\n0.96 Y\nCAMPARI TO}\nSTRUBRY CC\n073447501213 T\nores 782200 F\n2.98 R\nKFT SINGLES\n002100061526 F\n3.78 Y\n445009821\n3.98 Y\nHARD\n3960343 F\n3.43 Y\nou\nBo0d000404eK1\n1.76 R\naug Sire Bear 311 3et9 F\n00 Y\n2.97 X\n1.67 X\nINJECTR CLNR 004980710003\njin CLEANER oo412 200008\n8.87 X\n36,35\nTAX 2\n5.000 %\nAnd\nAK 6\ner\n38.68\nCASH TN\n2.00\nUi iil imi\nmnt\n14:26\nrire\n“t\nOo)\n'\nhig\nPs\noan"
+}

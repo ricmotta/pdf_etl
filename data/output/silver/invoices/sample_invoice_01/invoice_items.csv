@@ -1,0 +1,9 @@
+document_id,item,description,quantity,unit_price,line_total
+ABCCONST-1-20250827,Asphalt Mix,Hot-mix asphalt for road paving,40.0,95.0,3800.0
+ABCCONST-1-20250827,Crushed Stone (Base),Aggregate base for highway foundation,120.0,30.0,3600.0
+ABCCONST-1-20250827,Ready-Mix Concrete,Standard grade for pavements & runways,25.0,110.0,2750.0
+ABCCONST-1-20250827,Rebar Steel (12mm),Reinforcing steel bars for concrete,400.0,15.0,6000.0
+ABCCONST-1-20250827,Portland Cement (Bag),50kg bags for concrete mix,500.0,8.0,4000.0
+ABCCONST-1-20250827,Gravel (Construction),General use in foundations and drainage,150.0,22.0,3300.0
+ABCCONST-1-20250827,Bitumen Binder (Drum),Bitumen 60/70 for asphalt mix,10.0,520.0,5200.0
+ABCCONST-1-20250827,Geotextile Fabric Roll,Non-woven geotextile for soil stabilization,15.0,180.0,2700.0

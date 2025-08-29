@@ -1,0 +1,21 @@
+{
+  "source_path": "data/input/receipts/02.jpg",
+  "file_hash": "d243307bdce5a03b43e2c9baead1cd6b100587477ac7ae566f7bd73a218a07ca",
+  "ingest_ts": "2025-08-28T22:15:32.530502",
+  "extraction_flavor": "ocr_mp:gray:--oem 3 --psm 6 -l eng",
+  "ocr_input_variant": "gray",
+  "merchant_name": "WALMART",
+  "tc_code": null,
+  "txn_datetime_raw": "10/18/20",
+  "phone": "(949) 498-6669",
+  "items_sold_meta": 4,
+  "items_detected": 3,
+  "discount_meta_val": null,
+  "subtotal_meta": 46.44,
+  "tax_meta_val": 1.0,
+  "tax_meta_pct": 7.5,
+  "total_meta": 49.9,
+  "tendered_meta": 49.9,
+  "change_due_meta": 0.0,
+  "ocr_text_sample": "Give us feedback @ survey.walmart .com\nThank you! ID #:7PBG5JWCFZ2\nWalmart >\\<\n949-498-6669 Mor : Mga\n951 _AVENIDA PICO 3\noe] SAN CLEMENTE CA 92673 Ce\nST# 02527 OP# 009045 TE# 45 TR¥ 06193\n— GV OATMEAL 007874243408 F 1.76 0\nOT 2002 TUM 081236803115 6.74 X\nM ATHLETICS 019104567781 24.97 X\nDEXAS 15X20 008429710921 12.97 X\nSUBTOTAL 46.44\nTAX 1 7.750 % 3.46\nTOTAL\nDEBIT TEND 49.90\nCHANGE DUE 0.00\nEFT DEBIT PAY FROM PRIMARY\n49.90 TOTAL PURCHASE\nUS DEBIT xxx naxx trex 9689 I 0\nREF # 029200639128\nNETWORK ID. 0056 APPR CODE 461500\ntorie/20 11:30:42\nwii iit\n+\nPitrodteiny Walmart+\nJoin today at walmarl.com/plus\nPrices You Can Meas ery Day.\n\\q ie 10/18/20 11:30:\n-“\nGive us feedback @ survey.walmart.com E\nThank you! ID #:7PBE5JHCFZ2 k\n1 5\nWalmart ><.\n949-498-6669 Mar : MICHAEL Se\n951 AVENIDA PICO 2\nZe SAN CLEMENTE CA 92673, aes\nST# 02527 OP# 009045 TEH 45 TRH 06193 B :\n7 GV OATMEAL 007874243408 F 1.760 |g\nDEXAS 15x20 008429710921 12.97 X e\nSUBTOTAL 46.44 oa\nTAX 1 7.750 8 3.46 be,\nTOTAL 49.90 :\nDEBIT TEND 49.90 L J\nZ CHANGE DUE 0.00 ees\n7 EFT DEBIT PAY FROM PRIMARY ee\noo 49.90 TOTAL PURCHASE Ezz\nHus DEBIT axax ane xem 968910 9 ee\nZF FEF 44 029200639128 pee\n: NETWORK 1D. 0056 APPR CODE 461500 Pee\nq  USIDERTT esnaail eee\n===, AID A00000009% ces\n% 2 AAC T796F 4EBB2B54EED Lee\n2 TERMINAL # Sco1i004 2A\nZon 10/18/20 11:30:42 zz\nZeb. # ITEMS SOLD 4 LB Pea\nSZ TCH 2400 4776 4305 8847 1471 Ze\nee Introducing Walmart+ |\nZaey Join today at walmerl.com/plus Eee\nae Prices You Can Trust. Every Day. (ems\net eso y18/208 11:90:46 Gea\nSp z\nThank you! ID #:7PB65JNCF:\n951 _AVENIDA PICO\nSAN CLEMENTE CA\nGV OATMEAL.\n007874243408 F\n1.76 0\nOT 2002 TUM 081236803115\n6.74 X\nM ATHLETICS 019104567781\n24.97 X\nDEXAS 15X20 008429710921\n12.97 X\nSUBTOTAL\n44\nTAX 1\n7.750 %\n3.46\n3\n49.90\nDEBIT TEND\na\nPAY FROM PRIMARY\nAe\nTOTAL PURCHA’\nus\nxxx xxxx xxxx 9689 I 0\nSs\nEB\nUS DEBIT\nAID A0O\n‘AAC eee aa\nTERMINAL # SCO11004\nZe\neg\n11:30:42\neA\noh aa Soe\nZi\nee\nget\n|\nwi\nci\nwil\npee\nPrices You Can Trust, Every Day.\n11:30:\nis\nahs\n10/18/20"
+}

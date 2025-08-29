@@ -1,0 +1,21 @@
+{
+  "source_path": "data/input/receipts/07.jpg",
+  "file_hash": "ed765e9755ba515db62b98270508e960056fecd15b8b0ea4082be5cb7d8c4057",
+  "ingest_ts": "2025-08-28T22:15:56.793847",
+  "extraction_flavor": "ocr_mp:gray:--oem 3 --psm 4 -l eng",
+  "ocr_input_variant": "gray",
+  "merchant_name": "WALMART",
+  "tc_code": null,
+  "txn_datetime_raw": "11/13/17",
+  "phone": "(701) 223-3066",
+  "items_sold_meta": 3,
+  "items_detected": 4,
+  "discount_meta_val": null,
+  "subtotal_meta": 21.74,
+  "tax_meta_val": 1.0,
+  "tax_meta_pct": 5.0,
+  "total_meta": 23.19,
+  "tendered_meta": 23.19,
+  "change_due_meta": 0.0,
+  "ocr_text_sample": "See back of receip’\nto win $1000\nID #: 7L2T9WJM25F\nWalmart >/<.\nSave money. Live better.\n( 701 ) 223 - 3066\nMANAGER TIM MORRIS\n2717 ROCK ISLAND PL\nBISMARCK ND 58504\nST# 01534 OP# 009048 TE# 48 TRH 04455\n6 WING PLATE 020108870398 3.98 P\nASST 27 063099656595 4.88 X\nCUTIE CAR 063099656644 12.88 X\nSUBTOTAL 21.74\nTAX 1 6.500 % 1.15\nTAX 4 7.500 % 0.30\nTOTAL 23.19\nDEBIT TEND 23.19\nCHANGE DUE 0.00\nEFT DEBIT PAY FROM PRIMARY\n23.19 TOTAL PURCHASE\nUS DEBIT xxKK xxKK xxx 2696 I 0\nREF # 731700494718\nNETWORK ID. 0081 APPR CODE 936886\nUS DEBIT\nAID A0Q000000980840\nTC 58B77239DA5B3B44\n*NO SIGNATURE REQUIRED\nTERMINAL # SCO11090\n11/13/17 12:34:04\n# ITEMS SOLD 3\nTC# 2188 7274 6444 1567 3762\nMUM\nii Low Prices You Can Trust. Every Day.\n| 11/13/17 12:34:11\nStore receipts on your phone. Walmart P\n= |\n2\nID #: — 7L2T9WJM25F\nWal toe\nalma ¢,~.\n= eee Save money. Live better.\nBa { 701 ) 223 - 3066\neee MANAGER TIM MORRIS\nEe 2717 ROCK ISLAND PL\nye BISMARCK ND 58504 i\nBete ST# 01534 OP# 009048 TE# 48 TR# 04455\n: 6 WING PLATE 020108870398 3.98 P\nASST 27 063099656595 4.88 XK\nLr TAX 1 6.500 ¥ 1.15\n- TAX 4 7.500 % 0.30\nUS DEBIT xxKK xxxx xxxx 2696 I 0\nAID AQ000000980840\nxNO SIGNATURE REQUIRED\n: = _Low Prices You Can Trust. Every Day.\ned 11/13/17 12:34:11\neS Store receipts on your phone. Walmart P\nee\n=e fra\nBae\nos)\nto ci . $1000\nID #:\nTL2T9WJM25F\npe hs Es fe SS\nala\nWalmart\n\\~-.\nye\n6 WING PLATE 020108870398\n3.98 P\nASST 27\n063099656595\n4.88 X\nCUTIE CAR\n063099656644\n12.88 X\nSUBTOTAL\n21.74\nTAX 4\n6.500 %\n1.15\n7.500 %\n0.30\nTOTAL\n23.19\nDEBIT TEND\nCHANGE DUE\n0.00\nEFT DEBIT\nPAY FROM PRIMARY\nRRKX XxKK xxxx 2696 I 0\n11/13/17\n12:34:04\n|\nI\n7\nLow Prices You Can Trust. Every Day.\n12:34:11\nay\nOR\nae\na\no4\nhu WF.\n="
+}

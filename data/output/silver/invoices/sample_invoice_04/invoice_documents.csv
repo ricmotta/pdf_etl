@@ -1,0 +1,2 @@
+document_id,doc_type,document_number_raw,document_number,party_name,supplier_name,currency,extraction_flavor,items_count,sum_line_total,subtotal_meta,tax_meta_pct,total_meta,diff_sum_vs_subtotal,diff_sum_vs_total,source_path,ingest_ts,silver_ts
+ABCCONST-4-20250827,invoice,4 ABC Construction Supplies Ltd.,4,Edgevanta Inc.,ABC Construction Supplies Ltd.,USD,lattice,3,7010.0,7010.0,12.0,7851.200000000001,0.0,-841.2000000000007,data\input\invoices\sample_invoice_04.pdf,2025-08-28T22:14:04Z,2025-08-28T22:14:04Z

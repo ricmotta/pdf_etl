@@ -1,0 +1,21 @@
+{
+  "source_path": "data/input/receipts/00.jpg",
+  "file_hash": "f0223ea9bc8fae2d89e54e9587a8f00d22eea75cc2e59137a26ac3dba210615e",
+  "ingest_ts": "2025-08-28T22:15:23.950307",
+  "extraction_flavor": "ocr_mp:bin:--oem 3 --psm 6 -l eng",
+  "ocr_input_variant": "bin",
+  "merchant_name": "WALMART",
+  "tc_code": null,
+  "txn_datetime_raw": null,
+  "phone": "(679) 348-7928",
+  "items_sold_meta": 2,
+  "items_detected": 2,
+  "discount_meta_val": 0.57,
+  "subtotal_meta": 5.11,
+  "tax_meta_val": 0.0,
+  "tax_meta_pct": null,
+  "total_meta": 5.11,
+  "tendered_meta": 11.0,
+  "change_due_meta": 5.89,
+  "ocr_text_sample": "WAL*MART\nALWAYS LOW PRICES.\nAub?\nSUPERCENTER\nOPEN. 24 HOURS\nMANAGER . TBA\nPH 00000158 JE# 14 TRE 03178\n000001!\nSihatas  Qooocoag40y IKE\n1 Ib /0.49 0.20 N\n001200010451 F «5148 N\nDISCOUNT GIVEN 0.57\nSUBTOTAL 5.11\nTOTAL li\nCASH _ TEND 11.00\nCHANGE DUE 5.89\n/# ITEMS SOLD 2\naii\nYOu FOR ater RING WITH\nNATHANIEL Bi\nL* MART\n: ALWAYS LOW PRICES.\nOPEN 24 HOURS\n‘ MANAGER . TBA\n(S15 ) 986 ~ 1783\n‘ sT# 5748 OPH 00000158 TE# 14 TR¥ 03178\n4 BANANAS 000000004011KF\n0.41 Ib @ 1 1b /0.49 0.20 N\n‘2 FRAP 001200010451 F 5.48 N\n‘ DISCOUNT GIVEN 0.57\nNs, SUBTOTAL 5.11\nyy : ey TOTAL 5.11\ni CASH TEND 11.00\n- CHANGE DUE 5.89\nyf.\n“4 ITEMS SOLD 2\n\\2, Tet 9679 348 sass 7928 2003\nse METLAMUOOL\n: Bore\na Ai THANK YOU FOR SHOPPING WITH US\nPie NATHANIEL BUSH\nFe: Your Back yctstalnart # Ger Le\nvale ©. 08720710 1g: Fs.g2\" Less.\nan MS\nALWAYS LOW PRICES\nAls\nMANAGER\nTBA\n)\n6~ 1\nST# 5748 OP# 00000158 TE# 14 TRH 03178\n00000\nBANANAS\ni\nFRAP\n001200010451 F\n20 N\n5.48 N\nDISCOUNT GIVEN\n0.57\nom,\nUBTOTAL\n5.11\nCASH TEND\n11.00\nCHANGE DUE\n5.89\nft ITEMS SOLD 2\n‘cia iu\nhoy\nYour Back\npat Walmarte at Get\n. 08 721\n5345 choo! List for Less\nSe eee\nv\noe"
+}

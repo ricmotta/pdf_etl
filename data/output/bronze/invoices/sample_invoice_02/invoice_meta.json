@@ -1,0 +1,21 @@
+{
+  "document_number_raw": "2 ABC Construction Supplies Ltd.",
+  "document_number": "2",
+  "po_number_raw": "123123132 456 Industrial Road, Dallas, TX 75201, USA",
+  "po_number": "123123132456",
+  "invoice_date": "27/08/2025",
+  "due_date": "27/08/2025",
+  "bill_to_name": "Edgevanta Inc.",
+  "bill_to_block": "Edgevanta Inc.",
+  "client_or_supplier": "Edgevanta Inc.",
+  "bill_from_name": "Invoice #: 2 ABC Construction Supplies Ltd.",
+  "bill_from_block": "Invoice #: 2 ABC Construction Supplies Ltd.",
+  "amount_due": "4,830.00",
+  "subtotal": "4,600.00",
+  "tax": "5,00%",
+  "currency": "USD",
+  "source_path": "data\\input\\invoices\\sample_invoice_02.pdf",
+  "extraction_flavor": "lattice",
+  "ingest_ts": "2025-08-28T22:14:04Z",
+  "line_items_rows": 3
+}
