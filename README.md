@@ -1,12 +1,12 @@
 # PDF ETL Pipeline (Invoices & Receipts)
 
 ## Project Overview
-This project implements an **end-to-end ETL pipeline** for extracting structured information from unstructured PDF documents such as **invoices** and **receipts**.  
+This project implements an **end-to-end ETL pipeline** for extracting structured information from unstructured PDF and JPG documents such as **invoices** and **receipts**.  
 
 The pipeline:
 - Extracts raw structured data from PDFs (**Bronze layer**).
 - Cleans, normalizes, and reconciles values (**Silver layer**).
-- Loads into PostgreSQL with analytical views (**Gold layer**).
+- Loads into PostgreSQL tables and analytical views (**Gold layer**).
 - Generates **automated Markdown reports** with insights.  
 
 ---
@@ -68,23 +68,30 @@ project-root/
 ![ETL Architecture](documents/etl_architecture.png)
 
 - **Bronze:**  
-  Per-document raw outputs  
+  First structured extraction from raw documents (PDF invoices, scanned JPG receipts).  
+  Stores per-document outputs such as:  
   - `invoice_line_items.csv`, `invoice_meta.json`  
-  - `receipt_line_items.csv`, `receipt_meta.json` + `_debug/` (OCR intermediates)
+  - `receipt_line_items.csv`, `receipt_meta.json` (+ `_debug/` OCR snapshots)
 
 - **Silver:**  
-  Normalized, cleaned global outputs  
+  Curated, normalized datasets with consistent schema.  
   - `invoice_items.csv`, `invoice_documents.csv`  
-  - `receipts_items.csv`, `receipts_documents.csv`
+  - `receipts_items.csv`, `receipts_documents.csv`  
 
-  Data loaded into **PostgreSQL tables**:  
-  - `etl.documents` (one row per invoice/receipt, normalized metadata)  
-  - `etl.line_items` (line-level details with FK to documents) 
+  These outputs are then **loaded into PostgreSQL tables**:  
+  - `etl.documents` (one row per document, normalized metadata)  
+  - `etl.line_items` (line-level details with FK to documents)
 
 - **Gold:**  
-  Analytical views in PostgreSQL (`db/gold.sql`)  
+  Analytical views and functions in PostgreSQL (`db/gold.sql`) for business insights:  
   - `v_summary_overview`, `v_top_parties`, `v_top_suppliers`, `v_top_items_by_value`, `v_consistency_diffs`, etc.  
-  - Function `f_consistency_outliers(threshold)` for anomaly detection.  
+  - `f_consistency_outliers(threshold)` for anomaly detection.  
+
+- **Reports:**
+  Final deliverables generated automatically from Silver tables:  
+  - `reports/invoices/invoice_report.md`  
+  - `reports/receipts/receipt_report.md` (optional)  
+  - Additional CSV/JSON exports for dashboards or BI tools.  
 
 ---
 
@@ -216,3 +223,33 @@ Besides the Python requirements, a few system-level tools are required for full 
     - macOS (brew): `brew install tesseract`  
     - Windows: binaries available at [https://github.com/UB-Mannheim/tesseract/wiki](https://github.com/UB-Mannheim/tesseract/wiki)
 
+---
+
+## Next Steps
+
+While the current implementation covers the full ETL, I wrote down possible directions worth exploring with more time:
+
+### 1. Data Quality & Testing
+- Add **Great Expectations** validations in the Silver layer (totals, numeric ranges, mandatory fields).
+- Implement **unit tests** for parsers and ID builders, plus **end-to-end tests** with synthetic PDFs.
+- Improve logging and error handling (structured logs per PDF, store failed artifacts for debugging).
+
+### 2. Cloud Integration
+- Fetch PDFs directly from **AWS S3** (or other storage) instead of local `data/input/`.
+- Store Silver/Gold outputs in cloud warehouses for scalability.
+
+### 3. Interfaces
+- Extend the CLI with more granular commands (`reprocess-one`, `validate-only`).
+- Build a lightweight **FastAPI service** with an endpoint `/ingest` to trigger ingestion via API.
+
+### 4. Advanced Parsing
+- Integrate **AI-assisted OCR/parsing** for receipts and contracts with irregular layouts.
+- Add support for multi-page invoices and contracts with mixed text+tables.
+
+### 5. Containerization & CI/CD
+- Package the pipeline with **Docker** for reproducible environments.
+- Add **GitHub Actions** workflows for linting, testing, and running ingestion automatically.
+
+### 6. Analytics & Visualization
+- Expand PostgreSQL Gold views (trends by month, tax distributions, outlier detection).
+- Add dashboards to visualize top suppliers, spend by category, and reconciliation mismatches.
